@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<head>
+    <title>Laconian Gulf Ship Traffic</title>
+    <!-- Leaflet CSS code -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+        integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+        crossorigin=""/>
+
+    <!-- Leaflet JS code -->
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+        integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+        crossorigin=""></script>
+
+    <script src="./leaflet.timeline.js"></script>
+    <!-- Map position -->
+    <style>
+        #map {position: absolute; top: 0; bottom: 0; left: 0; right: 0}
+        .leaflet-bottom.leaflet-left {width: 100%;}
+        .leaflet-control-container .leaflet-timeline-controls {
+            box-sizing: border-box;
+            width: 100%;
+            margin: 0;
+            margin-bottom: 15px;
+        }
+        /* Set up map legend */
+        #legend {
+            position: absolute; 
+            top: 0; 
+            right: 0; 
+            z-index: 1000; 
+            background: white; 
+            border-radius: 5px;
+        }
+        .tanker-box {display: inline-block; width: 8px; height: 8px; background-color: #CB8427;}
+        .cargo-box {display: inline-block; width: 8px; height: 8px; background-color: #FFD326;}
+        .unknown-box {display: inline-block; width: 8px; height: 8px; background-color: #7B7B7B;}
+
+    </style>
+</head>
+<body>
+    <div id = "map">
+        <div id = "legend">
+            <p>Marker by type of ship:</p>
+            <span class="cargo-box"></span> Cargo Ship
+            <span class="tanker-box"></span> Oil Tanker
+            <span class="unknown-box"></span> Unknown
+        </div>
+    </div>
+    <script src="./Data/All_Messages.js"></script>
+    <script src="./markers.js"></script>
+    <script>
+
+        // Initiate map set to the Laconian Gulf 
+        var map = L.map('map').setView([36.492338, 22.703036], 10);
+
+        // Link to OpenStreetMap and settings 
+        L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            maxZoom: 13,
+            minZoom: 9,
+            attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+        }).addTo(map);
+
+        
+        // Main function
+        function load_data(json_data){
+            
+            // Create the slider controller
+            slider = L.timelineSliderControl({
+                // Format the timestamp to be seen
+                formatOutput: function (date) {
+                    return new Date(date).toString();
+                }, 
+                enableKeyboardControls: true,
+                showTicks: false,
+                end: 1713718020000
+            });
+
+            // Create the timeline object that will hold all information
+            timeline = L.timeline(json_data, {
+                    
+                // Change marker colour depending on the type of ship
+                pointToLayer: (feature, latLng) =>                    
+                    {switch (feature.properties.ShipType) {
+                        case "Tanker": return L.marker(latLng, {icon: tankerIcon});
+                        case "Unknown": return L.marker(latLng, {icon: unknownIcon});
+                        case "Cargo Ship": return L.marker(latLng, {icon: cargoIcon});
+                    }
+                    }
+                }
+            // Write the popup content to be seen
+            ).bindPopup(function (layer) {
+                
+                name = "<h3>Ship Name: " + layer.feature.properties.ShipName + "</h3>";
+                timestamp = "<p>AIS message received on: " + new Date(layer.feature.properties.start).toString() + "<p>";
+                mmsi = "<p>MMSI: " + layer.feature.properties.MMSI + "<p>";
+                imo = "<p>IMO: " + layer.feature.properties.IMO + "<p>";
+                ship_type = "<p>Ship Type: " + layer.feature.properties.ShipType + "<p>";
+                country_flag = "<p>Country Flag: " + layer.feature.properties.Flag + "<p>";
+            
+                return name + timestamp + mmsi + imo + ship_type + country_flag;
+            })
+            // Assemble the pieces together
+            slider.addTo(map);
+            slider.addTimelines(timeline);
+            timeline.addTo(map);
+        }
+        // Call main function
+        load_data(json_data);
+
+    </script> 
+</body>
