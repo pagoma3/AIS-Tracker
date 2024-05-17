@@ -1,0 +1,377 @@
+,MMSI,ShipName,IMO,ShipType,Flag
+0,215497000,DAYTONA             ,,Unknown,Malta
+1,341250001,FLYING SPUR         ,9085455,Cargo Ship,Saint Kitts and Nevis (Federation of)
+2,477965400,PURDUE STELLAR      ,9275658,Tanker,China (People's Republic of) - Hong Kong (Special Administrative Region of China)
+3,352583000,HERAKLITOS          ,,Unknown,Panama (Republic of)
+4,312700000,NEW LEGACY          ,,Unknown,Belize
+5,538008915,NISSOS SIKINOS      ,9884033,Tanker,Marshall Islands (Republic of the)
+6,271000793,DARDANELLES SEAWAYS,9322437,Cargo Ship,Republic of Türkiye
+7,255806158,SIDER RODI          ,,Unknown,Portugal - Madeira
+8,538010830,CLEAN IMPERIAL      ,9376854,Tanker,Marshall Islands (Republic of the)
+9,373938000,AG VALOR            ,,Unknown,Panama (Republic of)
+10,271040948,GALATA SEAWAYS,9422134,Cargo Ship,Republic of Türkiye
+11,256263000,PAQIZE,9457206,Cargo Ship,Malta
+12,247019600,GRANDE ELLADE       ,,Unknown,Italy
+13,636018787,BEAVER              ,,Unknown,Liberia (Republic of)
+14,248549000,NEPTUNE ILIAD       ,9440100,Cargo Ship,Malta
+15,314647000,SUPER SAKA          ,9456551,Cargo Ship,Barbados
+16,636023743,GAS MELODY          ,9410624,Tanker,Liberia (Republic of)
+17,241734000,MINERVA ALEXANDRA   ,9892999,Tanker,Greece
+18,538008774,HARVEST             ,9297931,Cargo Ship,Marshall Islands (Republic of the)
+19,636020512,SIYA                ,9442108,Cargo Ship,Liberia (Republic of)
+20,207138000,PEACE               ,,Unknown,Bulgaria (Republic of)
+21,538003884,GEM                 ,,Unknown,Marshall Islands (Republic of the)
+22,636093205,FEHU                ,9611826,Cargo Ship,Liberia (Republic of)
+23,373251000,PROPUS,,Unknown,Panama (Republic of)
+24,538072048,BURRASCA,0,Generic Vessel,Marshall Islands (Republic of the)
+25,538072052,OSCAR,,Unknown,Marshall Islands (Republic of the)
+26,357654000,FACCA               ,9271951,Tanker,Panama (Republic of)
+28,374024000,SEALION I           ,9234501,Tanker,Panama (Republic of)
+29,352001737,MANTA SALACAK       ,9336660,Tanker,Panama (Republic of)
+30,373276000,HATICE ANA          ,,Unknown,Panama (Republic of)
+31,314849000,ROUTE               ,9281853,Tanker,Barbados
+32,538005294,TWINKLE STAR        ,9363780,Tanker,Marshall Islands (Republic of the)
+33,312325000,TREND,9231509,Tanker,Belize
+34,538002621,OKYROE              ,9273088,Tanker,Marshall Islands (Republic of the)
+35,538010955,ELEGANT VOYAGER     ,9547506,Tanker,Marshall Islands (Republic of the)
+36,626262000,GLYFADA             ,9253234,Tanker,Gabonese Republic
+37,511101300,BONIFACY            ,9284726,Tanker,Palau (Republic of)
+38,636018234,CAESAR              ,9235696,Tanker,Liberia (Republic of)
+39,626352000,MYTHOS              ,9314894,Tanker,Gabonese Republic
+40,511101307,JUVENIS             ,9260067,Tanker,Palau (Republic of)
+41,525121061,SAVIR LION          ,9306639,Tanker,Indonesia (Republic of)
+42,538007374,NEW VISION          ,9804459,Tanker,Marshall Islands (Republic of the)
+43,538010839,NORTHERNLIGHT       ,9577123,Tanker,Marshall Islands (Republic of the)
+44,626259000,LYDIA               ,9334557,Tanker,Gabonese Republic
+45,352524000,MANTA DICLE         ,9666675,Tanker,Panama (Republic of)
+46,352003274,MARTA 1             ,9323974,Tanker,Panama (Republic of)
+47,538010409,YELLOW TRADER       ,929284000,Tanker,Marshall Islands (Republic of the)
+48,620999317,MUR                 ,9288875,Tanker,Comoros (Union of the)
+49,304803000,SPRITE              ,9252333,Tanker,Antigua and Barbuda
+50,352146000,OCEAN WAVE I        ,9356763,Tanker,Panama (Republic of)
+51,239892500,ELAFONISOS ,,Unknown,Greece
+52,240929000,NYMPHE              ,9438781,Cargo Ship,Greece
+53,626311000,ELECTRA             ,9307815,Tanker,Gabonese Republic
+54,352002666,ATACAMA             ,9248801,Tanker,Panama (Republic of)
+55,636018189,MSC ROSHNEY V       ,9337676,Cargo Ship,Liberia (Republic of)
+56,636023630,HARDRADA            ,9344007,Tanker,Liberia (Republic of)
+57,354443000,RIWAL,,Unknown,Panama (Republic of)
+58,256702000,SEASTAR             ,9373656,Tanker,Malta
+59,271043415,SAKARYA             ,9257199,Cargo Ship,Republic of Türkiye
+60,511100935,JUPITER I,9599341,Tanker,Palau (Republic of)
+61,239292900,PORFYROUSA   ,9145401,Passanger Ship,Greece
+62,240101900,MARILENA  ,,Unknown,Greece
+63,511100921,HELGA               ,9419151,Tanker,Palau (Republic of)
+64,355997000,SKY FEYZ,9116034,Cargo Ship,Panama (Republic of)
+65,244790314,MANISA EMY          ,,Unknown,Netherlands (Kingdom of the)
+66,229888000,LATIKO              ,9745782,Fishing,Malta
+67,352002462,RN ARKHANGELSK,9384435,Tanker,Panama (Republic of)
+68,215830000,POL MARIS           ,9457189,Cargo Ship,Malta
+69,241584000,SPORADES STAR,,Unknown,Greece
+70,305973000,LANGEOOG            ,9506136,Cargo Ship,Antigua and Barbuda
+71,353873000,MSC ANS             ,9282261,Cargo Ship,Panama (Republic of)
+72,636020194,MAGPIE S,9188922,Cargo Ship,Liberia (Republic of)
+73,636016770,ODYSSEUS,9315824,Cargo Ship,Liberia (Republic of)
+74,311001082,ITALIDA             ,9522817,Cargo Ship,Bahamas (Commonwealth of the)
+75,311005800,ORAWA,9386926,Cargo Ship,Bahamas (Commonwealth of the)
+76,613833000,ZEVS                ,9168946,Tanker,Cameroon (Republic of)
+77,352001721,POLLUX              ,9243320,Tanker,Panama (Republic of)
+78,538010233,AVAX                ,9953420,Tanker,Marshall Islands (Republic of the)
+79,636018295,BUTTERFLY           ,9273246,Tanker,Liberia (Republic of)
+80,271042759,NEVZAT KALKAVAN,9365867,Cargo Ship,Republic of Türkiye
+81,240484800,STAVROS ELENI,,Unknown,Greece
+82,626347000,ALBEDO              ,9213313,Tanker,Gabonese Republic
+83,271000910,BARON               ,9394210,Cargo Ship,Republic of Türkiye
+84,271000601,M/V MEHMET UNLU,9200029,Cargo Ship,Republic of Türkiye
+85,305206000,KATHLEEN,9127980,Cargo Ship,Antigua and Barbuda
+86,538008484,ANDROS SPIRIT       ,9592537,Cargo Ship,Marshall Islands (Republic of the)
+87,237611300,KAVOMALEAS I,,Unknown,Greece
+88,319152600,LADY LUCY           ,,Unknown,United Kingdom of Great Britain and Northern Ireland - Cayman Islands
+89,352003620,OCEAN THUNDER       ,9416422,Tanker,Panama (Republic of)
+90,240633000,AEGEAN HARMONY      ,9338917,Tanker,Greece
+91,355213000,GAZ VICTORY         ,9458171,Tanker,Panama (Republic of)
+92,538010148,BETTYS LOVE         ,9291406,Cargo Ship,Marshall Islands (Republic of the)
+93,271044177,SASKIA A            ,9315927,Cargo Ship,Republic of Türkiye
+94,271051982,OYKU A              ,9292462,Cargo Ship,Republic of Türkiye
+95,240560000,ARCADIA             ,,Unknown,Greece
+96,312510000,LEDRA ENA,7350363,Tug,Belize
+97,636020884,AHSOKA              ,,Unknown,Liberia (Republic of)
+98,538010209,EASTERLY JUPITER    ,,Unknown,Marshall Islands (Republic of the)
+99,372990000,GAZ PROVIDENCE      ,,Unknown,Panama (Republic of)
+100,258215000,VIKING SEA,,Unknown,Norway
+101,538004181,EQUITY              ,9577628,Cargo Ship,Marshall Islands (Republic of the)
+102,538010684,TONAL               ,9576129,Cargo Ship,Marshall Islands (Republic of the)
+103,370424000,NACC ANTIGUA        ,9512587,Cargo Ship,Panama (Republic of)
+104,352002777,PETRONILLA,9292838,Tanker,Panama (Republic of)
+105,636021732,VENICE A            ,9283306,Tanker,Liberia (Republic of)
+106,239386000,KEFALONIA,7426045,Passanger Ship,Greece
+107,240657000,AEGEAN NOBILITY     ,9345441,Tanker,Greece
+108,229922000,DENSA DEFNE         ,9297204,Tanker,Malta
+109,377602000,CIVARINA            ,9396440,Cargo Ship,Saint Vincent and the Grenadines
+110,255803590,MSC LEANDRA V       ,9313943,Cargo Ship,Portugal - Madeira
+111,353401000,GAZ CONCORD         ,9506174,Tanker,Panama (Republic of)
+112,271073738,ZEKI UCUNCUOGLU,8592695,Generic Vessel,Republic of Türkiye
+113,255854000,ANHOLT              ,9968205,Cargo Ship,Portugal - Madeira
+114,636021506,ZIM NEW ZEALAND,9366471,Fishing,Liberia (Republic of)
+115,271000662,OLYMPOS SEAWAYS,9242390,Cargo Ship,Republic of Türkiye
+116,374552000,YEBA                ,9045728,Cargo Ship,Panama (Republic of)
+117,630001013,LADY SPERANZA       ,9200574,Cargo Ship,Guinea-Bissau (Republic of)
+118,563097900,HENRIETTE MAERSK    ,9399349,Tanker,Singapore (Republic of)
+119,256257000,ALTAY               ,9276315,Tanker,Malta
+120,256010000,NEPTUNE KALLOS      ,9442122,Cargo Ship,Malta
+121,630001104,TUNA                ,9356751,Tanker,Guinea-Bissau (Republic of)
+122,355008000,NAZMI C             ,9577769,Cargo Ship,Panama (Republic of)
+123,247087700,IBLEA               ,9244441,Tanker,Italy
+124,373028000,GREMIO              ,9699256,Tanker,Panama (Republic of)
+125,352002389,PERTAMINAGASAMARYLIS,9895317,Tanker,Panama (Republic of)
+126,636018294,NEW FRIENDSHIP,9249180,Tanker,Liberia (Republic of)
+127,249301000,ARCHANGEL ONE       ,9474292,Tanker,Malta
+128,271046601,TROY SEAWAYS,9816842,Cargo Ship,Republic of Türkiye
+129,351656000,METIN DADAYLI,9382827,Cargo Ship,Panama (Republic of)
+130,249069000,ARETHUSA            ,9398022,Passanger Ship,Malta
+131,314764000,BESTEKAR,9363508,Cargo Ship,Barbados
+132,271000792,ASPENDOS SEAWAYS,9322425,Cargo Ship,Republic of Türkiye
+133,247104500,DIEGO               ,9279850,Tanker,Italy
+135,271049726,SIMAS,9000314,Cargo Ship,Republic of Türkiye
+136,538005024,RUTH BORCHARD       ,9212034,Cargo Ship,Marshall Islands (Republic of the)
+137,538009544,WHITE PEARL         ,9917957,Tanker,Marshall Islands (Republic of the)
+138,538007514,MERRY MARIE         ,9400875,Cargo Ship,Marshall Islands (Republic of the)
+139,255806167,MAAS CONFIDENCE     ,9713210,Cargo Ship,Portugal - Madeira
+140,247437900,ITAL BONUS          ,9786994,Cargo Ship,Italy
+142,247276100,ALLEGRA             ,9436707,Tanker,Italy
+143,240265600,BLUE VELVET,0,Generic Vessel,Greece
+144,241739000,ANASTASIA K.,8914154,Cargo Ship,Greece
+146,352002699,CASSIOPEIA II       ,9396749,Tanker,Panama (Republic of)
+147,201100136,KRISTI I            ,8918291,Cargo Ship,Albania (Republic of)
+148,271051337,REYHAN SARI         ,9543342,Cargo Ship,Republic of Türkiye
+149,636020572,STAR MARILENA       ,9507520,Cargo Ship,Liberia (Republic of)
+150,538009155,NAVIS FORTUNA       ,9404455,Cargo Ship,Marshall Islands (Republic of the)
+151,371949000,CARLOW              ,9127162,Cargo Ship,Panama (Republic of)
+152,235061987,TINA C              ,9416331,Cargo Ship,United Kingdom of Great Britain and Northern Ireland
+153,413065000,XIN XIA MEN         ,9270476,Cargo Ship,China (People's Republic of)
+154,356249000,MSC SAMANTHA VI,9110377,Cargo Ship,Panama (Republic of)
+155,636019277,KRITI ROCK          ,9392315,Tanker,Liberia (Republic of)
+156,626318000,HORAI               ,9290517,Tanker,Gabonese Republic
+157,636020468,MSC DAISY,9295165,Cargo Ship,Liberia (Republic of)
+158,215813000,ROYAL CLIPPER       ,8712178,Passanger Ship,Malta
+159,271051202,MILAS               ,9279379,Fishing,Republic of Türkiye
+160,538008426,CHIP                ,9353101,Tanker,Marshall Islands (Republic of the)
+161,671697000,MOHSEN              ,8703270,Cargo Ship,Togolese Republic
+162,477714300,LICA MAERSK         ,9190779,Cargo Ship,China (People's Republic of) - Hong Kong (Special Administrative Region of China)
+163,239938800,EKAVI,0,Generic Vessel,Greece
+164,304376000,DOGAN               ,9100152,Cargo Ship,Antigua and Barbuda
+165,356467000,LUCKY HARMONY       ,9267613,Cargo Ship,Panama (Republic of)
+166,511101153,MANTA               ,9424651,Tanker,Palau (Republic of)
+167,667001840,AL FAROUK           ,8813037,Cargo Ship,Sierra Leone
+168,371711000, MSC GIANNA III     ,9152856,Cargo Ship,Panama (Republic of)
+169,271043190,DONAU EKSPRES II    ,9598804,Cargo Ship,Republic of Türkiye
+170,232003353,CELTIC VENTURE      ,9238399,Cargo Ship,United Kingdom of Great Britain and Northern Ireland
+171,511100834,BRIZA               ,9286815,Cargo Ship,Palau (Republic of)
+172,271000747,ASSOS SEAWAYS,9293416,Cargo Ship,Republic of Türkiye
+173,240732000,AEGEAN VIII,8817576,Tanker,Greece
+174,374229000,FENER,9381940,Cargo Ship,Panama (Republic of)
+175,538009082,UBC CARTAGENA       ,9448281,Cargo Ship,Marshall Islands (Republic of the)
+176,314666000,ADELHEID BR         ,9387621,Cargo Ship,Barbados
+177,312333000,SAHIN 3             ,9174787,Cargo Ship,Belize
+178,538010600,SSI FURIOUS         ,9960174,Cargo Ship,Marshall Islands (Republic of the)
+179,355643000,DAPHNE 1            ,9251456,Tanker,Panama (Republic of)
+180,477194400,COSCO NEBULA        ,9795622,Cargo Ship,China (People's Republic of) - Hong Kong (Special Administrative Region of China)
+181,511101214,MANASSA M           ,8913021,Cargo Ship,Palau (Republic of)
+182,414461000,YUAN DONG HAI       ,9843338,Tanker,China (People's Republic of)
+183,314634000,WILSON DUNMORE      ,9383924,Cargo Ship,Barbados
+184,247039400,GRAND BENELUX,9227900,Cargo Ship,Italy
+185,341552000,KARELIS-72          ,9433690,Cargo Ship,Saint Kitts and Nevis (Federation of)
+186,370047000,CENK G,9108556,Passanger Ship,Panama (Republic of)
+187,255806030,HELENA G            ,9358383,Cargo Ship,Portugal - Madeira
+188,250005461,ARKLOW WIND         ,9818943,Cargo Ship,Ireland
+189,477630900,PTI NILE            ,9747338,Tanker,China (People's Republic of) - Hong Kong (Special Administrative Region of China)
+190,256550000,AGIOS GERASIMOS     ,9693056,Tanker,Malta
+191,255806147,CLIO                ,,Unknown,Portugal - Madeira
+192,636092932,MSC ILONA,9225641,Cargo Ship,Liberia (Republic of)
+193,574322000,SEA MARINE 1        ,9255830,Tanker,Viet Nam (Socialist Republic of)
+194,275536000,GREEN PEARL         ,9210323,Cargo Ship,Latvia (Republic of)
+195,240942000,KRITI JADE          ,9391311,Tanker,Greece
+196,352001852,BARBAROS ULUC VARDAL,9291602,Tanker,Panama (Republic of)
+197,356185000,ALGRACE,9154270,Cargo Ship,Panama (Republic of)
+198,511100696,ADAM-A              ,9114543,Cargo Ship,Palau (Republic of)
+199,271000766,MIRA AKAY           ,9045663,Cargo Ship,Republic of Türkiye
+200,538003141,EQUATOR             ,9363766,Cargo Ship,Marshall Islands (Republic of the)
+201,271044383,GULLUK              ,9228100,Cargo Ship,Republic of Türkiye
+202,372046000,TURGUT SAHIN,9135858,Cargo Ship,Panama (Republic of)
+203,241812000,NEPTUNE THARROS     ,9431850,0,Greece
+204,246530000,RIJNBORG,9355812,Cargo Ship,Netherlands (Kingdom of the)
+205,271046489,EPHESUS SEAWAYS,9816830,Cargo Ship,Republic of Türkiye
+206,210330000,LEDRA EXPLORER      ,8204781,Tug,Cyprus (Republic of)
+207,636023254,M/T NIKSAR,,Unknown,Liberia (Republic of)
+209,256214000,CMA CGM CONSTANZA   ,,Unknown,Malta
+210,246765000,HUNZEDIJK           ,,Unknown,Netherlands (Kingdom of the)
+211,511101242,YUMISE,,Unknown,Palau (Republic of)
+212,636017608,MSC RENAISSANCE III ,,Unknown,Liberia (Republic of)
+213,511100949,VALENTE             ,9298272,Tanker,Palau (Republic of)
+214,241689000,MINERVA KALLISTO    ,9853008,Tanker,Greece
+215,636015406,SOFIA R             ,9530967,Cargo Ship,Liberia (Republic of)
+216,636019823,MAKEDONIKOS         ,,Unknown,Liberia (Republic of)
+217,636021195,AQUAHONOR           ,9925136,Tanker,Liberia (Republic of)
+218,271043164,ULUSOY-14,9506253,Cargo Ship,Republic of Türkiye
+219,538007701,AGIA ELENI          ,,Unknown,Marshall Islands (Republic of the)
+220,636022736,TATIANA             ,9340128,Tanker,Liberia (Republic of)
+221,518998779,CHONGCHON,9294123,Tanker,New Zealand - Cook Islands
+222,256101000,ALICE               ,9323792,Tanker,Malta
+223,636022825,MILANO              ,9286059,Tanker,Liberia (Republic of)
+224,273443330,SANKT PETERBURG,9288980,Tanker,Russian Federation
+225,256212000,LUCKY TRADER        ,9952608,Tanker,Malta
+226,626353000,MYSTRAS             ,9314882,Tanker,Gabonese Republic
+227,626241000,LAGOON              ,9352195,Tanker,Gabonese Republic
+228,538010147,YALOUSSA            ,9464546,Cargo Ship,Marshall Islands (Republic of the)
+229,352001464,AK AMBITION         ,9008079,Cargo Ship,Panama (Republic of)
+231,511100936,SATURN I            ,9655470,Tanker,Palau (Republic of)
+232,229674000,HABIP BAYRAK        ,,Unknown,Malta
+233,538006206,CENTURIUS           ,9712618,Cargo Ship,Marshall Islands (Republic of the)
+234,538004145,ORANGE STARS        ,,Unknown,Marshall Islands (Republic of the)
+235,355415000,OSPREY BULKER,,Unknown,Panama (Republic of)
+236,626295000,OLIVE               ,9318034,Tanker,Gabonese Republic
+237,246320000,VERTOM TOMMA        ,,Unknown,Netherlands (Kingdom of the)
+238,636093169,SALAHUDDIN,,Unknown,Liberia (Republic of)
+239,373746000,NEW COMMANDER       ,,Unknown,Panama (Republic of)
+240,511100861,HALIM M             ,8606109,Cargo Ship,Palau (Republic of)
+241,372668000,GAZ FRATERNITY      ,,Unknown,Panama (Republic of)
+242,271000748,ARTEMIS SEAWAYS,9293428,Cargo Ship,Republic of Türkiye
+243,357943000,AC XINGHAI          ,,Unknown,Panama (Republic of)
+244,636022189,KAPTAN ERDOGAN,,Unknown,Liberia (Republic of)
+245,255806375,SIDER KING          ,,Unknown,Portugal - Madeira
+246,636022735,GRACE FELIX         ,9391402,Tanker,Liberia (Republic of)
+247,636018086,AGIA DOXA           ,9467976,Cargo Ship,Liberia (Republic of)
+248,304707000,JOHANN              ,,Unknown,Antigua and Barbuda
+249,538002734,NAVIOS VERMILION    ,,Unknown,Marshall Islands (Republic of the)
+250,352002015,BARBAROS HAYRETTIN V,,Unknown,Panama (Republic of)
+251,249740000,LUDOGORETS          ,,Unknown,Malta
+252,215912000,NEPTUNE OKEANIS,9306706,Cargo Ship,Malta
+253,636021871,CECELA S            ,9227857,Cargo Ship,Liberia (Republic of)
+254,304352000,MV C.ENDEAVOUR      ,,Unknown,Antigua and Barbuda
+255,538009727,VIKING BRAVERY      ,,Unknown,Marshall Islands (Republic of the)
+256,636022681,EDT AEOLUS          ,9476006,Tug,Liberia (Republic of)
+257,477648700,M/V LUNA MAERSK     ,9190781,Cargo Ship,China (People's Republic of) - Hong Kong (Special Administrative Region of China)
+258,636017683,PERITO MORENO,,Unknown,Liberia (Republic of)
+260,314817000,EKMEN SKY           ,9384174,Cargo Ship,Barbados
+261,636016118,JOANNA              ,,Unknown,Liberia (Republic of)
+262,304768000,CUP                 ,9271327,Tanker,Antigua and Barbuda
+263,538006799,STAR EUROPE         ,9753351,Cargo Ship,Marshall Islands (Republic of the)
+264,620999377,MEMPHIS             ,9189146,Tanker,Comoros (Union of the)
+265,312561000,NS STAR             ,,Unknown,Belize
+266,271043255,T.SUNA              ,9652911,Tanker,Republic of Türkiye
+267,304792000,CHILLI,9249130,Tanker,Antigua and Barbuda
+268,370543000,ARGO I              ,,Unknown,Panama (Republic of)
+269,620999285,SURBHI,,Unknown,Comoros (Union of the)
+270,314800000,PRINCE ZAIN         ,9276731,Cargo Ship,Barbados
+271,305765000,LOUISE BORCHARD,9336294,Cargo Ship,Antigua and Barbuda
+272,215418000,JEAN PIERRE A       ,,Unknown,Malta
+273,240421700,ALOHA,0,Fishing,Greece
+274,240159808,CELINE,0,Fishing,Greece
+275,538010670,AYDOGAN,,Unknown,Marshall Islands (Republic of the)
+276,376281000,ALMERAY             ,9300910,Cargo Ship,Saint Vincent and the Grenadines
+277,247206000,GRANDE EUROPA       ,,Unknown,Italy
+278,626263000,ARIADNE             ,,Unknown,Gabonese Republic
+279,477070800,CSCL BRISBANE       ,,Unknown,China (People's Republic of) - Hong Kong (Special Administrative Region of China)
+280,351381000,SEVEN S             ,9006344,Cargo Ship,Panama (Republic of)
+281,636021691,KRITI CAPTAIN       ,9335147,Tanker,Liberia (Republic of)
+282,636019612,CS CIHAN            ,,Unknown,Liberia (Republic of)
+283,636021389,TRANSEUROPE         ,,Unknown,Liberia (Republic of)
+284,245872000,NJORD               ,,Unknown,Netherlands (Kingdom of the)
+285,538003755,ARAMON              ,9440485,Tanker,Marshall Islands (Republic of the)
+286,240458000,MELTEMI             ,9298741,Tanker,Greece
+287,249444000,CELESTINE           ,,Unknown,Malta
+288,538004370,FRIEDERIKE          ,,Unknown,Marshall Islands (Republic of the)
+289,256565000,SEVERINE            ,,Unknown,Malta
+290,636017210,PANTHERA J,,Unknown,Liberia (Republic of)
+291,341487000,GELMOND 1,,Unknown,Saint Kitts and Nevis (Federation of)
+292,271050376,ULUSOY-16,,Unknown,Republic of Türkiye
+293,370261000,GAZIBEY,,Unknown,Panama (Republic of)
+294,636020270,LASKARO S           ,9316050,Cargo Ship,Liberia (Republic of)
+295,255805664,MSC MARITINA V      ,,Unknown,Portugal - Madeira
+296,219030432,XO COPENHAGEN       ,,Unknown,Denmark
+297,271043303,PERGAMON SEAWAYS,,Unknown,Republic of Türkiye
+298,353416000,HACI HILMI-II,,Unknown,Panama (Republic of)
+299,636019710,ADAVEGA,,Unknown,Liberia (Republic of)
+300,636016406,FAIR WONDER         ,9327449,Tanker,Liberia (Republic of)
+301,255915562,GANADO EXPRESS      ,,Unknown,Portugal - Madeira
+302,354854000,GLORIA 1905         ,,Unknown,Panama (Republic of)
+303,511100982,FALCON-UA,,Unknown,Palau (Republic of)
+304,577586000,ISIK 2              ,,Unknown,Vanuatu (Republic of)
+305,215416000,MARGUERITE A        ,,Unknown,Malta
+306,241753000,CHRISTINA           ,,Unknown,Greece
+307,352672000,GUNDEM AZRA,,Unknown,Panama (Republic of)
+308,352001327,GREAT ZHOU          ,,Unknown,Panama (Republic of)
+309,305265000,SLOMAN HEBE         ,,Unknown,Antigua and Barbuda
+310,215426000,VENTO DI SCIROCCO   ,,Unknown,Malta
+311,237041100,PROTUG 18,,Unknown,Greece
+312,256660000,nan,,Unknown,Malta
+313,249508000,MUMTAZ,,Unknown,Malta
+314,205481000,BELLE L'ADRIATIQUE  ,9432799,Passanger Ship,Belgium
+315,229978000,SATIE               ,,Unknown,Malta
+316,227051000,BELEM               ,8622983,Generic Vessel,France
+317,613618200,MARANTA             ,,Unknown,Cameroon (Republic of)
+318,636022087,K ONSET             ,,Unknown,Liberia (Republic of)
+319,238296000,VINJERAC,,Unknown,Croatia (Republic of)
+320,538006248,GOYNUK              ,,Unknown,Marshall Islands (Republic of the)
+321,352002382,LUCIA A             ,9228655,Tanker,Panama (Republic of)
+322,351165000,LAKE 2              ,,Unknown,Panama (Republic of)
+323,636022895,GRACE ADALBERHT     ,9396763,Tanker,Liberia (Republic of)
+324,352001685,CMA CGM BLOSSOM     ,,Unknown,Panama (Republic of)
+325,353092000,VANGUARD            ,,Unknown,Panama (Republic of)
+326,255805908,AUTO ENERGY         ,,Unknown,Portugal - Madeira
+327,511101298,C VIKING            ,9261657,Tanker,Palau (Republic of)
+328,370429000,ATA                 ,,Unknown,Panama (Republic of)
+329,626283000,NARGIS              ,9353125,Tanker,Gabonese Republic
+330,538005802,MARLIN AMBER        ,9697210,Tanker,Marshall Islands (Republic of the)
+331,477594700,EAST 1              ,,Unknown,China (People's Republic of) - Hong Kong (Special Administrative Region of China)
+332,370993000,MSC FRANCESCA       ,,Unknown,Panama (Republic of)
+333,636021766,NADINE V            ,,Unknown,Liberia (Republic of)
+334,305014000,BULL                ,9292503,Tanker,Antigua and Barbuda
+335,256424000,ATHENA              ,,Unknown,Malta
+336,240160300,JOLIE,0,Generic Vessel,Greece
+337,538007822,MAPLE               ,,Unknown,Marshall Islands (Republic of the)
+338,563112000,KILBURN             ,,Unknown,Singapore (Republic of)
+339,248400000,MEROVING            ,9453614,Cargo Ship,Malta
+340,538006935,ANATOLIAN EAGLE     ,,Unknown,Marshall Islands (Republic of the)
+341,271042325,ASALET              ,,Unknown,Republic of Türkiye
+342,312861000,ERA                 ,8710998,Cargo Ship,Belize
+343,341200000,ELYSIUM             ,,Unknown,Saint Kitts and Nevis (Federation of)
+344,511100448,TULEEN ,,Unknown,Palau (Republic of)
+345,538010322,VEGA COLIGNY        ,,Unknown,Marshall Islands (Republic of the)
+346,271002571,SUMELA SEAWAYS,9356749,Cargo Ship,Republic of Türkiye
+348,239299000,GALILEO             ,8986286,Passanger Ship,Greece
+349,240421600,ALASKA,0,Generic Vessel,Greece
+350,314715000,A LINE,,Unknown,Barbados
+351,239623000,PROTUG 42,,Unknown,Greece
+352,241604000,MINERVA ZENOBIA     ,9787182,Tanker,Greece
+353,352001615,LYUDA               ,8901585,Cargo Ship,Panama (Republic of)
+354,268238201,SKY GATE            ,,Unknown,San Marino (Republic of)
+355,229490000,EUROCARGO ISTANBUL  ,,Unknown,Malta
+356,677066600,DEAN,,Unknown,Tanzania (United Republic of)
+357,220637000,CAROLINE THERESE    ,,Unknown,Denmark
+358,538005137,DS MANATEE,,Unknown,Marshall Islands (Republic of the)
+359,636018167,CONTSHIP ECO        ,,Unknown,Liberia (Republic of)
+360,246651000,POLAR ROCK          ,,Unknown,Netherlands (Kingdom of the)
+361,538010107,YASA MIMOSA,,Unknown,Marshall Islands (Republic of the)
+362,312845000,MY LAMA             ,,Unknown,Belize
+363,355238000,GAZ ENERGY          ,9458169,Tanker,Panama (Republic of)
+364,352978150,ESLEM               ,9148154,Cargo Ship,Panama (Republic of)
+365,258049000,HEENVLIET           ,9536076,Cargo Ship,Norway
+366,271000661,CAPPADOCIA SEAWAYS,9242388,Cargo Ship,Republic of Türkiye
+367,538010393,KIBO                ,9719331,Cargo Ship,Marshall Islands (Republic of the)
+368,353817000,ROMAN E             ,9083134,Cargo Ship,Panama (Republic of)
+369,351235000,HOROZ               ,7610830,Tug,Panama (Republic of)
+370,352001231,MEIKE,9105841,Cargo Ship,Panama (Republic of)
+371,636022902,OSAKA               ,9380570,Tanker,Liberia (Republic of)
+372,215176000,GABRIEL A           ,9300659,Cargo Ship,Malta
+373,374616000,RIVA                ,9361469,Tanker,Panama (Republic of)
+374,374540000,HTK NEPTUNE         ,9329411,Cargo Ship,Panama (Republic of)
+375,212267000,CONTSHIP  IVY       ,9371402,Cargo Ship,Cyprus (Republic of)
+376,314665000,FRI ST              ,9115896,Cargo Ship,Barbados
+377,511100455,BLUE BEAD,9171113,Cargo Ship,Palau (Republic of)
+378,230624000,ARKADIA             ,9590797,Cargo Ship,Finland
+379,370773000,YILMAZ DENIZ        ,9318278,Cargo Ship,Panama (Republic of)
+380,311013400,OHIO                ,9417440,Tanker,Bahamas (Commonwealth of the)
+381,355861000,OGUZ SOFUOGLU       ,9424259,Cargo Ship,Panama (Republic of)
+382,215413000,AURETTE A           ,9242285,Cargo Ship,Malta
+383,636023105,LILA FROSTBURG      ,9672507,Cargo Ship,Liberia (Republic of)
